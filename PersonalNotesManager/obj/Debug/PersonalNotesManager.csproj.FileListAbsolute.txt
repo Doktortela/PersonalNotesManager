@@ -1,1 +1,2 @@
 D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe.config
+D:\g\PersonalNotesManager\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe.config
