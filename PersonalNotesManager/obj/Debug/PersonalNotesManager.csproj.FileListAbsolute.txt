@@ -1,2 +1,13 @@
 D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe.config
 D:\g\PersonalNotesManager\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe.config
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\bin\Debug\PersonalNotesManager.pdb
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.csprojResolveAssemblyReference.cache
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form1.resources
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form2.resources
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form3.resources
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form4.resources
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.Properties.Resources.resources
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.csproj.GenerateResource.Cache
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.exe
+D:\Grybinyk\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.pdb
